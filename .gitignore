@@ -1,0 +1,17 @@
+# Database files
+*.db
+
+# Environment files
+.env
+
+# Virtual environment folders
+venv/
+.venv/
+
+# Python notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files (optional, but recommended)
+__pycache__/
+*.pyc
+
