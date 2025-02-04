@@ -11,6 +11,7 @@ This project demonstrates how to leverage Large Language Models (LLMs) to conver
 - **SQL Toolkit**: The toolkit bridges the gap between the agent and the database, enabling query execution while ensuring security and efficiency.
 - **Template Prompt with Guardrails**: A structured prompt template ensures that the agent is restricted to read-only access. The agent can only retrieve information and is explicitly prevented from modifying, deleting, or altering any database records.
 - **Prompt Engineering**: A section of the notebook is dedicated to prompt engineering techniques, optimizing interactions between the user and the LLM for accurate SQL generation.
+![image](https://github.com/user-attachments/assets/5f9b5cf9-3c67-4ed6-a9f5-bcb1477d0cdd)
 
 ## The Role of the Agent
 
@@ -61,6 +62,8 @@ Ensure you have the following installed:
 3. **Agent Decision Making**: The agent determines the appropriate SQL query required to answer the question.
 4. **SQL Toolkit Execution**: The SQL toolkit converts the structured query into an actual SQL command and executes it on the MySQL database.
 5. **Response Generation**: The results are returned to the user in a readable format.
+   ![image](https://github.com/user-attachments/assets/3e0e6086-d7bc-47ea-b2f4-55604c1810bf)
+
 
 ## SQL Toolkit
 
