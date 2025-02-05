@@ -35,7 +35,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Nirerp/SQL_Agent.git)
+   git clone https://github.com/Nirerp/SQL_Agent.git
    cd SQL_Agent
    ```
 
